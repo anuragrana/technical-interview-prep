@@ -1,15 +1,16 @@
 ## Technical Interview Preparation
 
+#### Basics
+- Big O notation [[1]](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity)
+- 
 
 #### Data Structures
-- Arrays and Lists
-- 2D Arrays
+- Arrays and Lists [[1]](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
+- Linked List [[1]](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
 - Strings
-- Linked List
-- Stack
-- Queue
+- Stack & Queue
 - Hash Table & Hash Set
-- Heap
+- Heap [[1]](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238)
 - Graphs
 - Binary Tree
 - Binary Search Tree
@@ -55,6 +56,7 @@
 #### Questions
 - https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
 - https://leetcode.com/explore/
+- https://www.interviewcake.com/
 
 -------------------------------------
 
