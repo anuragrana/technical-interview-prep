@@ -10,7 +10,7 @@
 - Strings [[1]](https://www.geeksforgeeks.org/string-data-structure/)
 - Stack & Queue [[1]](https://medium.com/basecs/stacks-and-overflows-dbcf7854dc67) [[2]](https://medium.com/basecs/to-queue-or-not-to-queue-2653bcde5b04)
 - Hash Table & Hash Set [[1]](https://medium.com/basecs/taking-hash-tables-off-the-shelf-139cbf4752f0) [[2]](https://medium.com/basecs/hashing-out-hash-functions-ea5dd8beb4dd)
-- Heap [[1]](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238) [[2]](https://www.geeksforgeeks.org/heap-data-structure/))
+- Heap [[1]](https://medium.com/basecs/learning-to-love-heaps-cef2b273a238) [[2]](https://www.geeksforgeeks.org/heap-data-structure/)
 - Graphs [[1]](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
 - Binary Tree & Binary Search Tree [[1]](https://medium.com/basecs/how-to-not-be-stumped-by-trees-5f36208f68a7) [[2]](https://medium.com/basecs/leaf-it-up-to-binary-trees-11001aaf746d)
 - Trie [[1]](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014)
