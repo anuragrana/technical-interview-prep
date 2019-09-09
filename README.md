@@ -28,7 +28,7 @@
 - https://github.com/keon/algorithms
 - Algorithms implemented in Python: https://github.com/TheAlgorithms/Python
 
-![Time Complexities](resources/1_ipkeWQ_Lb0lbkhB8rigxTA.png)
+
 
 #### Sorting
 - Selection Sort
@@ -41,6 +41,8 @@
 - Bucket Sort
 - [Sorting Algorithms GeeksForGeeks](https://www.geeksforgeeks.org/sorting-algorithms/)
 - [5 Sorting algorithms with Python](https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889)
+
+![Time Complexities](resources/1_ipkeWQ_Lb0lbkhB8rigxTA.png)
 
 
 #### Books
