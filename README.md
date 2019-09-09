@@ -1,5 +1,5 @@
 ## Technical Interview Preparation
--------------------------------------
+
 
 #### Data Structures
 - Arrays and Lists
@@ -15,6 +15,7 @@
 - Binary Search Tree
 - Trie
 - [Data Structures GeeksForGeeks](https://www.geeksforgeeks.org/data-structures/)
+- [Data Structures BaseCS Medium](https://medium.com/basecs/tagged/data-structures)
 
 #### Algorithms
 - Binary Search
