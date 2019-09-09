@@ -1,6 +1,7 @@
 ## Technical Interview Preparation
+-------------------------------------
 
-#### Data Structures:
+#### Data Structures
 - Arrays and Lists
 - 2D Arrays
 - Strings
@@ -49,6 +50,7 @@
 - https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
 - https://leetcode.com/explore/
 
+-------------------------------------
 
 ### System Design
 - https://github.com/binhnguyennus/awesome-scalability
