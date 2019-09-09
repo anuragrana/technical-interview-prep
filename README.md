@@ -17,19 +17,6 @@
 - [Data Structures GeeksForGeeks](https://www.geeksforgeeks.org/data-structures/)
 - [Data Structures BaseCS Medium](https://medium.com/basecs/tagged/data-structures)
 
-#### Algorithms
-- Binary Search
-- Breadth First Search
-- Depth First Search
-- Selection Algorithm
-- Recursion
-- Sortest Path
-- Longest increasing subsequence
-- Kruskal’s Algorithm for finding Minimum Spanning Tree
-- https://github.com/keon/algorithms
-- Algorithms implemented in Python: https://github.com/TheAlgorithms/Python
-
-
 
 #### Sorting
 - Selection Sort
@@ -44,6 +31,19 @@
 - [5 Sorting algorithms with Python](https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889)
 
 ![Time Complexities](resources/1_ipkeWQ_Lb0lbkhB8rigxTA.png)
+
+
+#### Algorithms
+- Binary Search
+- Breadth First Search
+- Depth First Search
+- Selection Algorithm
+- Recursion
+- Sortest Path
+- Longest increasing subsequence
+- Kruskal’s Algorithm for finding Minimum Spanning Tree
+- https://github.com/keon/algorithms
+- Algorithms implemented in Python: https://github.com/TheAlgorithms/Python
 
 
 #### Books
