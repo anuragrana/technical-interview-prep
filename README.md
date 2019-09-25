@@ -19,17 +19,10 @@
 
 
 #### Sorting
-- Selection Sort
-- Insertion Sort
-- Merge Sort
-- Quick Sort
-- Heap Sort
-- Counting Sort
-- Radix Sort
-- Bucket Sort
+- [Sorting Animation/Visualization](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/visualize/)
 - [Sorting Algorithms GeeksForGeeks](https://www.geeksforgeeks.org/sorting-algorithms/)
 - [5 Sorting algorithms with Python](https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889)
-- [Sorting Animation/Visualization](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/visualize/)
+
 
 ![Time Complexities](resources/1_ipkeWQ_Lb0lbkhB8rigxTA.png)
 
@@ -54,10 +47,9 @@
 
 
 #### Questions
-- https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
-- https://leetcode.com/explore/
 - https://www.interviewcake.com/
-
+- https://leetcode.com/explore/
+- https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
 -------------------------------------
 
 ### System Design
