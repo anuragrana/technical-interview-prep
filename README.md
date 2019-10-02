@@ -3,6 +3,7 @@
 #### Basics
 - Big O notation [[1]](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity)
 - [Big O cheatsheet](https://www.bigocheatsheet.com/)
+- Linear and Binary Search
 
 #### Data Structures
 - Arrays and Lists [[1]](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
