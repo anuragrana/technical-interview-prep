@@ -41,6 +41,12 @@
 - Algorithms implemented in Python: https://github.com/TheAlgorithms/Python
 
 
+#### Must Read Java
+- Multi-Threading
+- Collections
+
+![Java Collections](resources/javacollections.png)
+
 #### Books
 - [Cracking the coding interview](https://amzn.to/34wxaxM)
 - [Elements of programming interviews](https://amzn.to/2HVPIxU)
