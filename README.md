@@ -61,6 +61,7 @@
 
 ### System Design
 - https://github.com/binhnguyennus/awesome-scalability
+- https://github.com/checkcheckzz/system-design-interview
 - http://highscalability.com/all-time-favorites/
 - https://github.com/donnemartin/system-design-primer
 - [System Design Questions LeetCode](https://leetcode.com/discuss/interview-question/system-design/?currentPage=1&orderBy=recent_activity&query=)
