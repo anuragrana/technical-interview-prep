@@ -43,7 +43,7 @@
 
 #### Must Read Java
 - [Garbage collection](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
-- Multi-Threading
+- [Multi-Threading](https://docs.oracle.com/javase/tutorial/essential/concurrency/procthread.html)
 - [Collections](https://dzone.com/articles/an-introduction-to-the-java-collections-framework)
 
 #### Books
