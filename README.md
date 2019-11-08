@@ -44,9 +44,7 @@
 #### Must Read Java
 - [Garbage collection](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
 - Multi-Threading
-- Collections
-
-![Java Collections](resources/javacollections.png)
+- [Collections](https://dzone.com/articles/an-introduction-to-the-java-collections-framework)
 
 #### Books
 - [Cracking the coding interview](https://amzn.to/34wxaxM)
