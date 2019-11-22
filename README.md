@@ -62,6 +62,7 @@
 -------------------------------------
 
 ### System Design
+- https://sourcemaking.com/design-patterns-and-tips
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/checkcheckzz/system-design-interview
 - http://highscalability.com/all-time-favorites/
