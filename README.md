@@ -45,6 +45,8 @@
 - [Garbage collection](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
 - [Multi-Threading](https://docs.oracle.com/javase/tutorial/essential/concurrency/procthread.html)
 - [Collections](https://dzone.com/articles/an-introduction-to-the-java-collections-framework)
+- [New in Java 8](https://www.journaldev.com/2389/java-8-features-with-examples)
+- [Lambdas](https://www.oreilly.com/learning/whats-new-in-java-8-lambdas)
 
 #### Books
 - [Cracking the coding interview](https://amzn.to/34wxaxM)
