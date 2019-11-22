@@ -58,6 +58,7 @@
 - https://www.interviewcake.com/
 - https://leetcode.com/explore/
 - https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
+- https://www.java67.com/2013/07/15-advanced-core-java-interview-questions-answers-senior-experienced-5-6-years-programmers-developers.html
 -------------------------------------
 
 ### System Design
