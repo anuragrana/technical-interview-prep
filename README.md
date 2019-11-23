@@ -62,6 +62,7 @@
 -------------------------------------
 
 ### System Design
+- https://www.toptal.com/java/interview-questions
 - https://sourcemaking.com/design-patterns-and-tips
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/checkcheckzz/system-design-interview
