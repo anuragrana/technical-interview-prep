@@ -47,6 +47,7 @@
 - [Collections](https://dzone.com/articles/an-introduction-to-the-java-collections-framework)
 - [New in Java 8](https://www.journaldev.com/2389/java-8-features-with-examples)
 - [Lambdas](https://www.oreilly.com/learning/whats-new-in-java-8-lambdas)
+- [Official Documentation](https://docs.oracle.com/javase/tutorial/index.html)
 
 #### Books
 - [Cracking the coding interview](https://amzn.to/34wxaxM)
@@ -55,6 +56,7 @@
 
 
 #### Questions
+- https://www.toptal.com/java/interview-questions
 - https://www.interviewcake.com/
 - https://leetcode.com/explore/
 - https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0
@@ -62,7 +64,6 @@
 -------------------------------------
 
 ### System Design
-- https://www.toptal.com/java/interview-questions
 - https://sourcemaking.com/design-patterns-and-tips
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/checkcheckzz/system-design-interview
