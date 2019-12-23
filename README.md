@@ -39,6 +39,7 @@
 - Kruskal’s Algorithm for finding Minimum Spanning Tree
 - https://github.com/keon/algorithms
 - Algorithms implemented in Python: https://github.com/TheAlgorithms/Python
+- [LRU cache working[(https://www.interviewcake.com/concept/java/lru-cache)
 
 
 #### Must Read Java
