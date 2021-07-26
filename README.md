@@ -15,7 +15,7 @@
 - Graphs [[1]](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
 - Binary Tree & Binary Search Tree [[1]](https://medium.com/basecs/how-to-not-be-stumped-by-trees-5f36208f68a7) [[2]](https://medium.com/basecs/leaf-it-up-to-binary-trees-11001aaf746d)
 - Trie [[1]](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014)
-- [Data Structures GeeksForGeeks](https://www.geeksforgeeks.org/data-structures/)
+- https://nlogn.in/data-structures-introduction/
 - [Data Structures BaseCS Medium](https://medium.com/basecs/tagged/data-structures)
 
 
@@ -71,8 +71,9 @@
 - http://highscalability.com/all-time-favorites/
 - https://github.com/donnemartin/system-design-primer
 - [System Design Questions LeetCode](https://leetcode.com/discuss/interview-question/system-design/?currentPage=1&orderBy=recent_activity&query=)
+- https://nlogn.in/system-design-guide/
 
-### System Design 2
+### Actual System Architectures
 - https://nlogn.in/designing-pastebin-service-system-design-nlogn/
 
 ------------
