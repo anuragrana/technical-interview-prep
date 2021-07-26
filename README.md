@@ -72,6 +72,8 @@
 - https://github.com/donnemartin/system-design-primer
 - [System Design Questions LeetCode](https://leetcode.com/discuss/interview-question/system-design/?currentPage=1&orderBy=recent_activity&query=)
 
+### System Design 2
+- https://nlogn.in/designing-pastebin-service-system-design-nlogn/
 
 ------------
 ### Contribution
