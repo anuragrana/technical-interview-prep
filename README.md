@@ -66,12 +66,13 @@
 
 ### System Design
 - https://sourcemaking.com/design-patterns-and-tips
+- https://nlogn.in/system-design-guide/ (start with basics)
 - https://github.com/binhnguyennus/awesome-scalability
 - https://github.com/checkcheckzz/system-design-interview
 - http://highscalability.com/all-time-favorites/
 - https://github.com/donnemartin/system-design-primer
 - [System Design Questions LeetCode](https://leetcode.com/discuss/interview-question/system-design/?currentPage=1&orderBy=recent_activity&query=)
-- https://nlogn.in/system-design-guide/
+
 
 ### Actual System Architectures
 - https://nlogn.in/designing-pastebin-service-system-design-nlogn/
