@@ -65,6 +65,7 @@
 
 #### Questions
 - https://leetcode.com/list/xi4ci4ig/ (Blind 75 leetcode - must do)
+- https://techinterviewhandbook.org/best-practice-questions/ (Only top 50 of Blind 75)
 - https://www.toptal.com/java/interview-questions
 - https://www.interviewcake.com/
 - https://leetcode.com/explore/
