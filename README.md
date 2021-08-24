@@ -72,6 +72,7 @@
 - http://highscalability.com/all-time-favorites/
 - https://github.com/donnemartin/system-design-primer
 - [System Design Questions LeetCode](https://leetcode.com/discuss/interview-question/system-design/?currentPage=1&orderBy=recent_activity&query=)
+- [CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 
 
 ### Actual System Architectures
