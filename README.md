@@ -54,6 +54,7 @@
 - [Cracking the coding interview](https://amzn.to/34wxaxM)
 - [Elements of programming interviews](https://amzn.to/2HVPIxU)
 - [Algorithms](https://amzn.to/34xiE96)
+- [https://techinterviewhandbook.org/introduction/](https://techinterviewhandbook.org/introduction/) (Online resource - Handbook)
 
 
 #### Questions
@@ -67,7 +68,7 @@
 ### System Design
 - https://sourcemaking.com/design-patterns-and-tips
 - https://nlogn.in/system-design-guide/ (start with basics)
-- https://github.com/binhnguyennus/awesome-scalability
+- https://github.com/binhnguyennus/awesome-scalability (Best)
 - https://github.com/checkcheckzz/system-design-interview
 - http://highscalability.com/all-time-favorites/
 - https://github.com/donnemartin/system-design-primer
