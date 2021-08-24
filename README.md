@@ -4,8 +4,11 @@
 - Big O notation [[1]](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity)
 - [Big O cheatsheet](https://www.bigocheatsheet.com/)
 - Linear and Binary Search
+- [https://github.com/kdn251/interviews](https://github.com/kdn251/interviews) - Quick Refresher
 
 #### Data Structures
+- [Data Structures BaseCS Medium](https://medium.com/basecs/tagged/data-structures)
+- https://nlogn.in/data-structures-introduction/
 - Arrays and Lists [[1]](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 - Linked List [[1]](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
 - Strings [[1]](https://www.geeksforgeeks.org/string-data-structure/)
@@ -15,8 +18,7 @@
 - Graphs [[1]](https://medium.com/basecs/a-gentle-introduction-to-graph-theory-77969829ead8)
 - Binary Tree & Binary Search Tree [[1]](https://medium.com/basecs/how-to-not-be-stumped-by-trees-5f36208f68a7) [[2]](https://medium.com/basecs/leaf-it-up-to-binary-trees-11001aaf746d)
 - Trie [[1]](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014)
-- https://nlogn.in/data-structures-introduction/
-- [Data Structures BaseCS Medium](https://medium.com/basecs/tagged/data-structures)
+
 
 
 #### Sorting
