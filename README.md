@@ -52,6 +52,10 @@
 - [Lambdas](https://www.oreilly.com/learning/whats-new-in-java-8-lambdas)
 - [Official Documentation](https://docs.oracle.com/javase/tutorial/index.html)
 
+
+#### Python
+- [Time complexities of operations in Python](https://wiki.python.org/moin/TimeComplexity)
+
 #### Books
 - [Cracking the coding interview](https://amzn.to/34wxaxM)
 - [Elements of programming interviews](https://amzn.to/2HVPIxU)
