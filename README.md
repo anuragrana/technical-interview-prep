@@ -85,8 +85,12 @@
 
 
 ### Database:
-- SQL vs NoSQL https://towardsdatascience.com/datastore-choices-sql-vs-nosql-database-ebec24d56106
+- SQL vs NoSQL 
+    - https://www.xplenty.com/blog/the-sql-vs-nosql-difference/ 
+    - https://www.mongodb.com/nosql-explained/nosql-vs-sql
+    - https://towardsdatascience.com/datastore-choices-sql-vs-nosql-database-ebec24d56106
 - Normal Forms https://www.guru99.com/database-normalization.html
+- https://www.interviewbit.com/sql-interview-questions/
 
 
 ### Actual System Architectures
