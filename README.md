@@ -22,7 +22,7 @@
 
 
 #### Sorting
-- [Sorting Animation/Visualization](https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/visualize/)
+- Sorting Animation https://www.hackerearth.com/practice/algorithms/sorting/merge-sort/visualize/
 - [Sorting Algorithms GeeksForGeeks](https://www.geeksforgeeks.org/sorting-algorithms/)
 - [5 Sorting algorithms with Python](https://medium.com/@george.seif94/a-tour-of-the-top-5-sorting-algorithms-with-python-code-43ea9aa02889)
 
@@ -31,36 +31,34 @@
 
 
 #### Algorithms
-- Binary Search
-- Breadth First Search
-- Depth First Search
+- Searching https://www.hackerearth.com/practice/algorithms/searching/linear-search/tutorial/
+- Graph Algorithms (BFS, DFS, MST, etc) https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/
 - Selection Algorithm
 - Recursion
-- Sortest Path
 - Longest increasing subsequence
-- Kruskal’s Algorithm for finding Minimum Spanning Tree
+- Dynamic Programming https://www.hackerearth.com/practice/algorithms/dynamic-programming/introduction-to-dynamic-programming-1/tutorial/
 - https://github.com/keon/algorithms
 - Algorithms implemented in Python: https://github.com/TheAlgorithms/Python
-- [LRU cache working](https://www.interviewcake.com/concept/java/lru-cache)
+- LRU cache working https://www.interviewcake.com/concept/java/lru-cache
 
 
 #### Must Read Java
-- [Garbage collection](https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
-- [Multi-Threading](https://docs.oracle.com/javase/tutorial/essential/concurrency/procthread.html)
-- [Collections](https://dzone.com/articles/an-introduction-to-the-java-collections-framework)
-- [New in Java 8](https://www.journaldev.com/2389/java-8-features-with-examples)
-- [Lambdas](https://www.oreilly.com/learning/whats-new-in-java-8-lambdas)
-- [Official Documentation](https://docs.oracle.com/javase/tutorial/index.html)
+- Garbage collection https://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html
+- Multi-Threading https://docs.oracle.com/javase/tutorial/essential/concurrency/procthread.html
+- Collections https://dzone.com/articles/an-introduction-to-the-java-collections-framework
+- New in Java 8 https://www.journaldev.com/2389/java-8-features-with-examples
+- Lambdas https://www.oreilly.com/learning/whats-new-in-java-8-lambdas
+- Official Documentation https://docs.oracle.com/javase/tutorial/index.html
 
 
 #### Python
-- [Time complexities of operations in Python](https://wiki.python.org/moin/TimeComplexity)
+- Time complexities of operations in Python https://wiki.python.org/moin/TimeComplexity
 
 #### Books
 - [Cracking the coding interview](https://amzn.to/34wxaxM)
 - [Elements of programming interviews](https://amzn.to/2HVPIxU)
 - [Algorithms](https://amzn.to/34xiE96)
-- [https://techinterviewhandbook.org/introduction/](https://techinterviewhandbook.org/introduction/) (Online resource - Handbook)
+- Online resource - Handbook - https://techinterviewhandbook.org/introduction/
 
 
 #### Coding Questions
