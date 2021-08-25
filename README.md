@@ -96,6 +96,19 @@
 ### Actual System Architectures
 - https://nlogn.in/designing-pastebin-service-system-design-nlogn/
 
+
+### Coding practice
+- https://www.hackerearth.com/practice/
+- https://www.hackerrank.com/dashboard
+- https://leetcode.com/problemset/algorithms/?page=1
+
+
+### Others:
+- Company coding tests https://www.hackerearth.com/practice/interviews/
+
+
+
+
 ------------
 ### Contribution
 You can contibute by expanding the list or by updating any broken link.
