@@ -63,7 +63,7 @@
 - [https://techinterviewhandbook.org/introduction/](https://techinterviewhandbook.org/introduction/) (Online resource - Handbook)
 
 
-#### Questions
+#### Coding Questions
 - https://leetcode.com/list/xi4ci4ig/ (Blind 75 leetcode - must do)
 - https://techinterviewhandbook.org/best-practice-questions/ (Only top 50 of Blind 75)
 - https://www.toptal.com/java/interview-questions
@@ -81,7 +81,12 @@
 - http://highscalability.com/all-time-favorites/
 - https://github.com/donnemartin/system-design-primer
 - [System Design Questions LeetCode](https://leetcode.com/discuss/interview-question/system-design/?currentPage=1&orderBy=recent_activity&query=)
-- [CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
+- CAP Theorem illustrated https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/
+
+
+### Database:
+- SQL vs NoSQL https://towardsdatascience.com/datastore-choices-sql-vs-nosql-database-ebec24d56106
+- Normal Forms https://www.guru99.com/database-normalization.html
 
 
 ### Actual System Architectures
