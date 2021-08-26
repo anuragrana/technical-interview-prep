@@ -90,7 +90,8 @@
 - ACID properties https://www.geeksforgeeks.org/acid-properties-in-dbms/
 - Normal Forms https://www.guru99.com/database-normalization.html
 - Database Index https://www.freecodecamp.org/news/database-indexing-at-a-glance-bb50809d48bd/
-- https://www.interviewbit.com/sql-interview-questions/
+- Interview Questions https://www.interviewbit.com/sql-interview-questions/
+- Interview Questions https://www.interviewcake.com/article/java/sql
 
 
 ### Actual System Architectures
@@ -105,6 +106,8 @@
 
 ### Others:
 - Company coding tests https://www.hackerearth.com/practice/interviews/
+- Brush up the concepts https://www.interviewcake.com/ go to Glossary
+- 
 
 
 
