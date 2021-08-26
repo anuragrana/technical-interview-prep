@@ -87,7 +87,7 @@
     - https://www.xplenty.com/blog/the-sql-vs-nosql-difference/ 
     - https://www.mongodb.com/nosql-explained/nosql-vs-sql
     - https://towardsdatascience.com/datastore-choices-sql-vs-nosql-database-ebec24d56106
-- ACID properties https://www.javatpoint.com/acid-properties-in-dbms
+- ACID properties https://www.geeksforgeeks.org/acid-properties-in-dbms/
 - Normal Forms https://www.guru99.com/database-normalization.html
 - Database Index https://www.freecodecamp.org/news/database-indexing-at-a-glance-bb50809d48bd/
 - https://www.interviewbit.com/sql-interview-questions/
