@@ -53,6 +53,8 @@
 
 #### Python
 - Time complexities of operations in Python https://wiki.python.org/moin/TimeComplexity
+- Performance tips  https://wiki.python.org/moin/PythonSpeed/PerformanceTips
+- 
 
 #### Books
 - [Cracking the coding interview](https://amzn.to/34wxaxM)
