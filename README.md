@@ -54,6 +54,7 @@
 #### Python
 - Time complexities of operations in Python https://wiki.python.org/moin/TimeComplexity
 - Performance tips  https://wiki.python.org/moin/PythonSpeed/PerformanceTips
+- Python Tips https://book.pythontips.com/en/latest/index.html
 - 
 
 #### Books
@@ -82,6 +83,8 @@
 - https://github.com/donnemartin/system-design-primer
 - [System Design Questions LeetCode](https://leetcode.com/discuss/interview-question/system-design/?currentPage=1&orderBy=recent_activity&query=)
 - CAP Theorem illustrated https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/
+- https://zerodha.tech/blog/scaling-with-common-sense/
+- 
 
 
 ### Database:
