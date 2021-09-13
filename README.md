@@ -99,8 +99,12 @@
 - Interview Questions https://www.interviewcake.com/article/java/sql
 
 
-### Actual System Architectures
-- https://nlogn.in/designing-pastebin-service-system-design-nlogn/
+### Example System Architectures
+- Pastebin service https://nlogn.in/designing-pastebin-service-system-design-nlogn/
+- Twitter Timeline https://www.geeksforgeeks.org/design-twitter-a-system-design-interview-question/
+- News Feed https://medium.com/@bansal_ankur/design-a-news-feed-system-6bf42e9f03fb
+- URL shortener https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR
+- Instagram https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG
 
 
 ### Coding practice
