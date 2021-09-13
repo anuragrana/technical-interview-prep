@@ -105,6 +105,7 @@
     - https://www.geeksforgeeks.org/design-twitter-a-system-design-interview-question/
     - https://github.com/donnemartin/system-design-primer/blob/master/solutions/system_design/twitter/README.md
     - https://medium.com/@narengowda/system-design-for-twitter-e737284afc95
+    - https://www.interviewbit.com/old/problems/design-twitter/
 - News Feed https://medium.com/@bansal_ankur/design-a-news-feed-system-6bf42e9f03fb
 - URL shortener https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR
 - Instagram https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG
