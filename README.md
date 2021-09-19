@@ -98,6 +98,7 @@
 - Database Index https://www.freecodecamp.org/news/database-indexing-at-a-glance-bb50809d48bd/
 - Interview Questions https://www.interviewbit.com/sql-interview-questions/
 - Interview Questions https://www.interviewcake.com/article/java/sql
+- Database indexes and query slowness https://use-the-index-luke.com/ (best)
 
 
 ### Example System Architectures
