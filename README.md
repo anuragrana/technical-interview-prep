@@ -49,6 +49,7 @@
 - New in Java 8 https://www.journaldev.com/2389/java-8-features-with-examples
 - Lambdas https://www.oreilly.com/learning/whats-new-in-java-8-lambdas
 - Official Documentation https://docs.oracle.com/javase/tutorial/index.html
+- Syncronized
 
 
 #### Python
