@@ -85,8 +85,8 @@
 - https://github.com/donnemartin/system-design-primer
 - [System Design Questions LeetCode](https://leetcode.com/discuss/interview-question/system-design/?currentPage=1&orderBy=recent_activity&query=)
 - CAP Theorem illustrated https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/
-- https://zerodha.tech/blog/scaling-with-common-sense/
-- 
+- Distributed Consensus http://thesecretlivesofdata.com/raft/
+- Raft https://codeburst.io/making-sense-of-the-raft-distributed-consensus-algorithm-part-1-3ecf90b0b361
 
 
 ### Database:
