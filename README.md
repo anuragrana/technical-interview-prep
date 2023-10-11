@@ -58,6 +58,7 @@
 - Python Tips https://book.pythontips.com/en/latest/index.html
 - Design and History FAQ https://docs.python.org/3.7/faq/design.html
 - List implementation http://www.laurentluce.com/posts/python-list-implementation/
+- Concurrency in Python - Superfast Python - https://superfastpython.com/learning-paths/
 
 #### Books
 - [Cracking the coding interview](https://amzn.to/34wxaxM)
