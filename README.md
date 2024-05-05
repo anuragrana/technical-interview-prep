@@ -101,6 +101,7 @@
 - Interview Questions https://www.interviewbit.com/sql-interview-questions/
 - Interview Questions https://www.interviewcake.com/article/java/sql
 - Database indexes and query slowness https://use-the-index-luke.com/ (best)
+- Database Internal PDF [Free PDF](https://github.com/G33kzD3n/Catalogue/tree/master) [Amazon](https://amzn.to/4a66fJI)
 
 
 ### Example System Architectures
