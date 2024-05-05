@@ -101,7 +101,7 @@
 - Interview Questions https://www.interviewbit.com/sql-interview-questions/
 - Interview Questions https://www.interviewcake.com/article/java/sql
 - Database indexes and query slowness https://use-the-index-luke.com/ (best)
-- Database Internal PDF [Free PDF](https://github.com/G33kzD3n/Catalogue/tree/master) [Amazon](https://amzn.to/4a66fJI)
+- Database Internals [Free PDF](https://github.com/G33kzD3n/Catalogue/tree/master), [Amazon](https://amzn.to/4a66fJI)
 
 
 ### Example System Architectures
@@ -114,6 +114,7 @@
 - News Feed https://medium.com/@bansal_ankur/design-a-news-feed-system-6bf42e9f03fb
 - URL shortener https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR
 - Instagram https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG
+- Chat System https://bytebytego.com/courses/system-design-interview/design-a-chat-system 
 
 
 ### Coding practice
@@ -134,6 +135,6 @@
 
 ------------
 ### Contribution
-You can contibute by expanding the list or by updating any broken link.
+You can contribute by expanding the list or by updating any broken link.
 Please create a [pull request](https://github.com/anuragrana/technical-interview-prep/pulls) or [issue](https://github.com/anuragrana/technical-interview-prep/issues).
 
