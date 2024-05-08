@@ -95,6 +95,7 @@
 - Distributed Consensus http://thesecretlivesofdata.com/raft/
 - Raft https://codeburst.io/making-sense-of-the-raft-distributed-consensus-algorithm-part-1-3ecf90b0b361
 - Design Patterns Catalog (Good) https://refactoring.guru/design-patterns/catalog
+- Low level designs https://github.com/InterviewReady/Low-Level-Design/tree/main?tab=readme-ov-file 
 
 
 ### Database:
