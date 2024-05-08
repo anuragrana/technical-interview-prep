@@ -94,6 +94,7 @@
 - CAP Theorem illustrated https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/
 - Distributed Consensus http://thesecretlivesofdata.com/raft/
 - Raft https://codeburst.io/making-sense-of-the-raft-distributed-consensus-algorithm-part-1-3ecf90b0b361
+- Design Patterns Catalog (Good) https://refactoring.guru/design-patterns/catalog
 
 
 ### Database:
