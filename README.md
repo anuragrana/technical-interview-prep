@@ -95,7 +95,8 @@
 - Distributed Consensus http://thesecretlivesofdata.com/raft/
 - Raft https://codeburst.io/making-sense-of-the-raft-distributed-consensus-algorithm-part-1-3ecf90b0b361
 - Design Patterns Catalog (Good) https://refactoring.guru/design-patterns/catalog
-- Low level designs https://github.com/InterviewReady/Low-Level-Design/tree/main?tab=readme-ov-file 
+- Low level designs https://github.com/InterviewReady/Low-Level-Design/tree/main?tab=readme-ov-file
+- https://vutr.substack.com/ 
 
 
 ### Database:
@@ -110,6 +111,10 @@
 - Interview Questions https://www.interviewcake.com/article/java/sql
 - Database indexes and query slowness https://use-the-index-luke.com/ (best)
 - Database Internals [Free PDF](https://github.com/G33kzD3n/Catalogue/tree/master), [Amazon](https://amzn.to/4a66fJI)
+
+### Data Engineering
+- https://github.com/DataExpert-io/data-engineer-handbook?tab=readme-ov-file
+- 
 
 
 ### Example System Architectures
