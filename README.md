@@ -64,12 +64,12 @@
 - [Elements of programming interviews](https://amzn.to/2HVPIxU)
 - [Algorithms](https://amzn.to/34xiE96)
 - Online resource - Handbook - https://techinterviewhandbook.org/introduction/
-- Staff engineers path
-- Software reliability engineers by Google
-- Software engineering by Google
-- Designing Data-intensive applications [PDF](https://github.com/G33kzD3n/Catalogue), Amazon (https://amzn.to/4aavv1r)
-- Code Simplicity [PDF](https://github.com/G33kzD3n/Catalogue), [Amazon](https://amzn.to/44wPru9)
-- System Design Interview by Alex Hu [PDF](https://github.com/G33kzD3n/Catalogue), [Amazon](https://amzn.to/3Uw0lLZ)
+- Staff engineers path - [Buy on Amazon](https://amzn.to/4bwEMCF)
+- Software reliability engineers by Google - https://sre.google/books/
+- Software engineering at Google - [Buy on Amazon](https://amzn.to/3UDJbfH)
+- Designing Data-intensive applications [PDF](https://github.com/G33kzD3n/Catalogue), [Buy on Amazon](https://amzn.to/4aavv1r)
+- Code Simplicity [PDF](https://github.com/G33kzD3n/Catalogue), [Buy on Amazon](https://amzn.to/44wPru9)
+- System Design Interview by Alex Hu [PDF](https://github.com/G33kzD3n/Catalogue), [Buy on Amazon](https://amzn.to/3Uw0lLZ)
 
 
 #### Coding Questions
