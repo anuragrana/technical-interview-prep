@@ -8,7 +8,6 @@
 
 #### Data Structures
 - [Data Structures BaseCS Medium](https://medium.com/basecs/tagged/data-structures)
-- https://nlogn.in/data-structures-introduction/
 - Arrays and Lists [[1]](https://medium.com/basecs/whats-a-linked-list-anyway-part-1-d8b7e6508b9d)
 - Linked List [[1]](https://medium.com/basecs/whats-a-linked-list-anyway-part-2-131d96f71996)
 - Strings [[1]](https://www.geeksforgeeks.org/string-data-structure/)
@@ -85,7 +84,6 @@
 
 ### System Design
 - https://sourcemaking.com/design-patterns-and-tips
-- https://nlogn.in/system-design-guide/ (start with basics)
 - https://github.com/binhnguyennus/awesome-scalability (Best)
 - https://github.com/checkcheckzz/system-design-interview
 - http://highscalability.com/all-time-favorites/
