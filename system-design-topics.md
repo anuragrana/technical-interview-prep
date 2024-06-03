@@ -69,7 +69,7 @@
 - Builder Design Pattern
 
 
-#### Interview Questions
+#### INTERVIEW QUESTIONS
 - LLD of Splitwise
 - LLD of BookMyShow
 - Design Parking Lot - LLD
