@@ -143,7 +143,7 @@
 
 ### Blogs
 - [Engineering Organizations tech blogs](https://github.com/anuragrana/Engineering-Tech-Blogs/blob/main/README.md)
-- [https://www.evanjones.ca/] (https://www.evanjones.ca/)
+- [https://www.evanjones.ca/](https://www.evanjones.ca/)
 
 
 ------------
