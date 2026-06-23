@@ -34,7 +34,7 @@ Less about clearing interviews, more for the day job: the paradigms, processes, 
 - [CNCF Landscape](https://landscape.cncf.io/) - the map of the cloud-native tooling ecosystem
 - India: [Razorpay](https://engineering.razorpay.com/), [Flipkart](https://blog.flipkart.tech/), [Swiggy](https://bytes.swiggy.com/), [Zerodha](https://zerodha.tech/) engineering blogs
 - [Engineering Organizations tech blogs](https://github.com/anuragrana/Engineering-Tech-Blogs/blob/main/README.md) - the full list (this repo)
-- (https://www.evanjones.ca/)[https://www.evanjones.ca/]
+- [https://www.evanjones.ca/](https://www.evanjones.ca/)
 
 #### Books
 - [Debugging rules](https://atakua.org/old-wp/wp-content/uploads/2016/03/David_J._Agans-Debugging-The_9_Indispensable_Rules_for_Finding_Even_the_Most_Elusive_Hardware_and_Software_Problem__2002.pdf)
