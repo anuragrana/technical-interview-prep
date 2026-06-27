@@ -7,12 +7,9 @@ Less about clearing interviews, more for the day job: the paradigms, processes, 
 - [How Complex Systems Fail](https://how.complexsystems.fail/) - Richard Cook, why "root cause" is mostly a myth, ~20 min (best)
 - [Choose Boring Technology](https://boringtechnology.club/) - Dan McKinley, your innovation tokens are limited
 - [The Fallacies of Distributed Computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing) - 8 assumptions that quietly wreck systems, ~10 min
-
-#### Architecture & System Design
 - [Timeouts, retries and backoff with jitter](https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/) - Amazon Builders' Library, most practical resilience read (best)
 - [Microservices](https://martinfowler.com/articles/microservices.html) - Martin Fowler & James Lewis, the canonical definition incl. when NOT to
 - [The Log: real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying) - Jay Kreps, the thinking behind Kafka
-- [Big Ball of Mud](http://www.laputan.org/mud/) - Foote & Yoder, why real systems become a mess (and why it's sometimes rational)
 - [The Twelve-Factor App](https://12factor.net/) - the baseline for apps that deploy cleanly and scale
 
 #### Dev Process & Delivery
