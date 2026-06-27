@@ -138,6 +138,7 @@
 ### Others:
 - Company coding tests https://www.hackerearth.com/practice/interviews/
 - Brush up the concepts https://www.interviewcake.com/ go to Glossary
+- Awesome resources for everything on github (500k stars) [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 
 
 
