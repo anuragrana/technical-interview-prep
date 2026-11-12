@@ -124,8 +124,8 @@
     - https://medium.com/@narengowda/system-design-for-twitter-e737284afc95
     - https://www.interviewbit.com/old/problems/design-twitter/
 - News Feed https://medium.com/@bansal_ankur/design-a-news-feed-system-6bf42e9f03fb
-- URL shortener https://www.educative.io/courses/grokking-the-system-design-interview/m2ygV4E81AR
-- Instagram https://www.educative.io/courses/grokking-the-system-design-interview/m2yDVZnQ8lG
+- URL shortener https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-a-url-shortening-service-like-tinyurl
+- Instagram https://www.designgurus.io/course-play/grokking-the-system-design-interview/doc/designing-instagram
 - Chat System https://bytebytego.com/courses/system-design-interview/design-a-chat-system 
 
 
